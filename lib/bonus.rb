@@ -19,6 +19,7 @@ def bonus
       ]
    }
   }
+end 
 
 def bonus_method(bonus)
   epic_tragedy[:montague][:hero][:status]= "dead"
